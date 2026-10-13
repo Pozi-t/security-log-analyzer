@@ -1,0 +1,8 @@
+2026-10-11 10:15:21 INFO Login successful user=admin ip=192.168.1.10
+2026-10-11 10:16:02 WARNING Login failed user=root ip=185.10.20.30
+2026-10-11 10:16:05 WARNING Login failed user=admin ip=185.10.20.30
+2026-10-11 10:16:08 WARNING Login failed user=test ip=185.10.20.30
+2026-10-11 10:17:11 INFO Login successful user=user1 ip=192.168.1.15
+2026-10-11 10:18:32 WARNING Login failed user=root ip=45.12.33.21
+2026-10-11 10:19:45 INFO Login successful user=guest ip=192.168.1.20
+2026-10-11 10:20:01 WARNING Login failed user=admin ip=45.12.33.21
